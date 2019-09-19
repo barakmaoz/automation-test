@@ -27,7 +27,7 @@ describe('login to WP and take some data', () => {
        creatPost.addImagefun();
        browser.pause(3000);
        creatPost.enterMetaDatainpage();
-       browser.pause(3000)
+       browser.pause(3000);
        
 
 
